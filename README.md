@@ -4,6 +4,7 @@
 
 Finding the right way to implement the animation to be the same as in the .mov file
 
+
 *Estimate your percentage of completion and how much time you would need to finish
 
 i'd say 60% because i got the logic of shrinking done. I got half of the animation working (the shrinking part)
